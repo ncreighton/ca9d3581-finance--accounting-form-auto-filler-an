@@ -28,8 +28,6 @@ Works directly in Chrome, Edge, and Brave — no switching apps required. Under 
 
 Upgrade to the Pro version for **$29.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://homebasedigital.gumroad.com/l/pawvc)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/6oUaEXh1B0bW2hifQ8cZH3M)** — Secure checkout
 
 ## Installation
@@ -41,7 +39,6 @@ Upgrade to the Pro version for **$29.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://homebasedigital.gumroad.com/l/pawvc)
 
 ## License
 
